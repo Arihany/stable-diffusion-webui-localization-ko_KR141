@@ -1,4 +1,4 @@
-# sd-webui-localization-ko
+# stable-diffusion-webui-localization-ko_KR for 141
 SD WebUI v1.4.1 대응 한글화
 
 지원하는 확장 기능
