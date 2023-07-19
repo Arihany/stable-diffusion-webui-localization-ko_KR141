@@ -1274,7 +1274,7 @@
   "Sub directories": "하위 경로",
   "Sub directory depth": "하위 경로 깊이",
   "Sub-folder": "하위 폴더",
-  "sum Twice:(A*(1-alpha)+B*alpha)*(1-beta)+C*beta": "이중 합: ( A* ( 1 - 알파 ) +B *알파 ) * ( 1 -베타 ) +C *베타",
+  "sum Twice:(A*(1-alpha)+B*alpha)*(1-beta)+C*beta": "이중 합: ( A* ( 1 -알파 ) +B *알파 ) * ( 1 -베타 ) +C *베타",
   "SuperMerger": "슈퍼머저",
   "Swap X/Y axes": "X/Y 축 뒤집기",
   "Swap X/Z axes": "X/Z 축 뒤집기",
