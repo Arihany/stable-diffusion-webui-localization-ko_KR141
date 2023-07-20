@@ -50,7 +50,7 @@
   "(skip negative prompt for some steps when the image is almost ready; 0=disable, higher=faster)": "(이미지가 거의 준비되면 일부 단계에서 네거티브 프롬프트를 건너뜁니다) (0: 비활성화, 높은 값: 빨라짐)",
   "(so they are used as literal brackets and not for emphasis)": "(강조를 위해서가 아닌 문자 그대로 괄호로 사용됩니다)",
   "(takes precedence over the regular space setting for that position)": "(해당 위치에 대한 일반 공백 설정보다 우선합니다)",
-  "(Technical button, neededs for testing)": "(테스트에 필요한 버튼)",
+  "(Technical button, neededs for testing)": "(기술적 기능, 시험 필요)",
   "(To work correctly in firefox, turn off 'Automatically search the page text when typing' in the browser settings)": "(파이어폭스에서 작동하기 위해 브라우저 설정에서 '입력시 자동 검색 비활성화'를 활성화합니다)",
   "(use (text) to make model pay more attention to text and [text] to make it pay less attention)": "((단어)로 단어에 더 집중하게 하고 [단어]로 덜 집중하게 합니다)",
   "(Warning: This is an external site and very likely contains NSFW examples!)": "(경고: 외부 사이트로 이동하며 NSFW가 포함되어 있을 가능성이 매우 높습니다!)",
